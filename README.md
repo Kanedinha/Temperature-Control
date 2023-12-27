@@ -3,7 +3,8 @@
 
 The main idea is use a triac and a optocoupler to control the number of sinusoidal cycles over the Load, so we can control de RMS Voltage over the Load. that circuit can be called as a solid state relay, this circuit already have modules projected to work in high voltage and high current.
 
-To complete de feedback loop, we can use a simple NTC sensor.
+To complete de feedback loop, we can use a simple NTC sensor. So the following schema is projected that way
+![image](https://github.com/Kanedinha/Temperature-Control/assets/59540104/183ca9ab-0111-4507-a460-bc9e8cc0ed33)
 
 The following block diagram is used to model the system:
 ![image](https://github.com/Kanedinha/Temperature-Control/assets/59540104/0c4a8a21-1a49-4887-9d15-2316cdb38abd)
