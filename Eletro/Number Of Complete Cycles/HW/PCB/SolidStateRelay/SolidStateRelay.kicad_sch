@@ -1124,7 +1124,7 @@
   (symbol (lib_id "Connector:Conn_01x02_Pin") (at 29.21 67.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5b084c15-0878-48a1-b111-b72877165036)
-    (property "Reference" "SenseRead1" (at 29.845 66.04 0)
+    (property "Reference" "Sensor" (at 29.845 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 29.845 66.04 0)
@@ -1141,7 +1141,7 @@
     (instances
       (project "SolidStateRelay"
         (path "/400f0e6e-7eca-462d-89bc-713ac3ba06f4"
-          (reference "SenseRead1") (unit 1)
+          (reference "Sensor") (unit 1)
         )
       )
     )
