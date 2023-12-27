@@ -1,7 +1,7 @@
 # Temperature-Control
  Assingment for Mecatronic subject of IPB
 
-The main idea is use a triac and a optocoupler to control the number of sinusoidal cycles over the Load, so we can control de RMS Voltage over the Load.
+The main idea is use a triac and a optocoupler to control the number of sinusoidal cycles over the Load, so we can control de RMS Voltage over the Load. that circuit can be called as a solid state relay, this circuit already have modules projected to work in high voltage and high current.
 
 To complete de feedback loop, we can use a simple NTC sensor.
 
