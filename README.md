@@ -7,7 +7,7 @@ To complete de feedback loop, we can use a simple NTC sensor. So the following s
 ![image](https://github.com/Kanedinha/Temperature-Control/assets/59540104/183ca9ab-0111-4507-a460-bc9e8cc0ed33)
 
 The following block diagram is used to model the system:
-![image](https://github.com/Kanedinha/Temperature-Control/assets/59540104/0c4a8a21-1a49-4887-9d15-2316cdb38abd)
+![image](https://github.com/Kanedinha/Temperature-Control/blob/main/Assets/Block%20Diagram.jpeg)
 
 One detail that impact the dinamic of system is de distance of the sensor from the heater, this mean the system have a slow response of the air temperature. this detail need to include in the system modeling.
 ![image](https://github.com/Kanedinha/Temperature-Control/assets/59540104/d94bb714-a647-47af-94e5-2fd2ffb1cdbd)
