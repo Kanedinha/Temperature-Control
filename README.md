@@ -10,7 +10,8 @@ The following block diagram is used to model the system:
 ![image](https://github.com/Kanedinha/Temperature-Control/blob/main/Assets/Block%20Diagram.jpeg)
 
 One detail that impact the dinamic of system is de distance of the sensor from the heater, this mean the system have a slow response of the air temperature. this detail need to include in the system modeling.
-![image](https://github.com/Kanedinha/Temperature-Control/assets/59540104/d94bb714-a647-47af-94e5-2fd2ffb1cdbd)
+
+<img src=https://github.com/Kanedinha/Temperature-Control/assets/59540104/d94bb714-a647-47af-94e5-2fd2ffb1cdbd height="500">
 
 For the PCB we can use the KiCAD project to guide us how to make an PCB, because how we will use a high voltage electrical network (230 Vrms; 50 Hz - in Portugal), its better use a PCB than a breadboard.
 ![image](https://github.com/Kanedinha/Temperature-Control/assets/59540104/c1c61bb9-f21f-4485-b033-4a6747136963)
